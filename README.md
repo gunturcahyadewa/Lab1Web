@@ -45,13 +45,10 @@
 ## Hasil Praktikum
 
 ### 1. Halaman Utama (index.html)
-Menampilkan teks dasar, format teks (bold, italic, subscript, superscript), dan gambar.
 ![Tampilan Index](image/ss-index.PNG)
 
-### 2. Halaman Kedua (halaman2.html)
-Menampilkan daftar keahlian (unordered list) dan urutan belajar (ordered list).
+### 2. Halaman Kedua (Halaman2.html)
 ![Tampilan Halaman 2](image/ss-halaman2.PNG)
 
 ### 3. Profil Mahasiswa (Profilmahasiswa.html)
-Menampilkan data diri dan foto profil mahasiswa.
 ![Tampilan Profil](image/ss-profil.PNG)
